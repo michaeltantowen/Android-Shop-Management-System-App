@@ -1,2 +1,3 @@
-# Android-Shop-Management-System-App
-This application is built using Android Studio based on the Java language. The database used in this application is SQLite.
+An android-based application aimed at owners of business businesses who need a database management system to record stock lists, transaction history lists, and also calculate business profits and losses for a certain period (such as the last 1 month, 3 months, and 1 year). . This application is built using Android Studio based on the Java language. The database used in this application is SQLite.
+
+On this project I collaborated with a friend of mine who has experience using Android Studio, and is used to using the Java language. In this project, we divide it into 2 parts, where he is responsible for UI and all things directly related to Front End Programs, where in Back End Programs such as databases, etc. are handled by me.
